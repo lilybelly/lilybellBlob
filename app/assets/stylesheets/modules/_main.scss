@@ -1,0 +1,102 @@
+body{
+  width:900px;
+  margin-right: auto;
+  margin-left : auto;
+  main{
+    padding-top: 150px;
+    .inner{
+      margin: 0 40px;
+      .lilybell1{
+        height: 528px;
+        .block1-left{
+          width: 36%;
+          float: left;
+          display: block;
+        }
+        .block1-right{
+          float: right;
+          width: 53%;
+          p{
+            padding: 45px;
+            font-family:"Courier New", monospace;
+            letter-spacing: 0.2em;
+          }
+          .image_block{
+            .image_block1{
+              width: 200px;
+              margin-top: 45px;
+              float: left;
+            }
+            .image_block2{
+              width: 200px;
+              margin-bottom: 45px;
+              float: right;
+            }
+          }
+        }
+      }
+      .lilybell2{
+        padding-top: 100px;
+        display: block;
+        height: 380px;
+        p{
+          float: left;
+          padding: 20px;
+          width: 200px;
+          clear: left;
+          font-family:"Courier New", monospace;
+          letter-spacing: 0.2em;
+        }
+        img{
+          float: right;
+          width: 570px;
+        }
+      }
+      .lilybell3{
+        height: 500px;
+        .image_block1{
+          height: 500px;
+          float: left;
+          margin-top: -45px;
+        }
+        .image_block2{
+          float: right;
+          width: 450px;
+          margin-top: 70px;
+        }
+      }
+      .lilybell4{
+        height: 370px;
+        .image_block1{
+          float: left;
+          width: 247px;
+          margin-top: 45px;
+        }
+        .image_block2{
+          width: 247px;
+          margin-left: 39.5px;
+          float: left;
+        }
+        .image_block3{
+          width: 247px;
+          float: left;
+          margin-top: -45px;
+          margin-left: 39.5px;
+        }
+      }
+      .lilybell5{
+        margin: 40px;
+        p{
+          text-align: center;
+          font-family:"Courier New", monospace;
+          letter-spacing: 0.2em;
+        }
+      }
+      .lilybell6{
+        width:900px;
+        margin-right: auto;
+        margin-left : auto;
+      }
+    }
+  }
+}
